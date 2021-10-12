@@ -93,8 +93,6 @@ int main()
 		b = swap;
 	}
 
-	x = a;
-
 	for (x = a; x <= b; x += h)
 	{
 		s = valueOfS();
